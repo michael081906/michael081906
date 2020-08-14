@@ -1,14 +1,17 @@
-### Hi there 👋
+# Michael Kam
 
+## Interests
+- 
+- 
+- 
 
-**michael081906/michael081906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work Experience 💻
+- **2020 - Present**: ME PhD @ [JHU](https://www.jhu.edu/) [IMERSE Lab](https://imerse.lcsr.jhu.edu/)
+- **2017 - 2020**: ME PhD @ [UMCP](https://www.umd.edu/)
+- **2014 - 2017**: Associate Engineer @ [ITRI](https://www.itri.org.tw/english/index.aspx)
+- **2012 - 2014**: MechE MS @ [NTU](https://www.ntu.edu.tw/english/index.html) [PSCL Lab](http://pscl.me.ntu.edu.tw/pscl/index.html)
+- **2008 - 2012**: MechE BS @ [NSYSU](https://www.nsysu.edu.tw/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Links
+- [ORCiD](https://orcid.org/0000-0002-7687-0980)
 
