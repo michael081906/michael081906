@@ -1,6 +1,6 @@
 # Michael Kam :wave:
 
-*If you have great talents, industry will improve them; if you have but moderate ability, industry will supply their deficiency.:sweat_drops:  
+*If you have great talents, industry will improve them; if you have but moderate ability, industry will supply their deficiency. :sweat_drops:  
 -- Joshuas Reynolds*  
 
 ## Interests :revolving_hearts:
