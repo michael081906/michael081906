@@ -9,8 +9,8 @@
 - [ROS](https://www.ros.org/)-based software developing, exploring, and implementing on surgical robots
 
 ## Work Experience
-- **2020 - Present**: MechE PhD @ [JHU](https://www.jhu.edu/) :us: @ [IMERSE Lab](https://imerse.lcsr.jhu.edu/)
-- **2017 - 2020**: MechE PhD @ [UMCP](https://www.umd.edu/) :us:
-- **2014 - 2017**: Associate Engineer @ [ITRI](https://www.itri.org.tw/english/index.aspx) :taiwan:
-- **2012 - 2014**: MechE MS @ [NTU](https://www.ntu.edu.tw/english/index.html) :taiwan: @ [PSCL Lab](http://pscl.me.ntu.edu.tw/pscl/index.html)
-- **2008 - 2012**: MechE BS @ [NSYSU](https://www.nsysu.edu.tw/?Lang=en) :taiwan:
+- **2020 - Present**: MechE PhD @ [JHU](https://www.jhu.edu/) @ [IMERSE Lab](https://imerse.lcsr.jhu.edu/)
+- **2017 - 2020**: MechE PhD @ [UMCP](https://www.umd.edu/)
+- **2014 - 2017**: Associate Engineer @ [ITRI](https://www.itri.org.tw/english/index.aspx)
+- **2012 - 2014**: MechE MS @ [NTU](https://www.ntu.edu.tw/english/index.html) @ [PSCL Lab](http://pscl.me.ntu.edu.tw/pscl/index.html)
+- **2008 - 2012**: MechE BS @ [NSYSU](https://www.nsysu.edu.tw/?Lang=en)
