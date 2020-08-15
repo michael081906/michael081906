@@ -1,7 +1,6 @@
 # Michael Kam
 
-> *If you have great talents, industry will improve them; if you have but moderate ability, industry will supply their deficiency.  
--- Joshuas Reynolds*  
+> *If you have great talents, industry will improve them; if you have but moderate ability, industry will supply their deficiency. -- Joshuas Reynolds*  
 
 ## Interests
 - 3D point cloud planning, processing, filtering for medical applications
