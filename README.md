@@ -3,7 +3,7 @@
 > *If you have great talents, industry will improve them; if you have but moderate ability, industry will supply their deficiency. -- Joshuas Reynolds*  
 
 ## Interests
-- 3D point cloud planning, processing, filtering for medical applications
+- 3D point cloud planning and processing for medical applications
 - Vision guided robotic manipulator in surgical path planning, kinematics, and control
 - [ROS](https://www.ros.org/)-based :turtle: software developing, exploring, and implementing on surgical robots
 
