@@ -4,7 +4,7 @@
 
 ## Interests
 - 3D point cloud planning and processing for medical applications
-- Vision guided robotic manipulator in surgical path planning, kinematics, and control
+- Vision-guidance robotic manipulator in surgical path planning, kinematics, and control
 - [ROS](https://www.ros.org/)-based :turtle: software developing, exploring, and implementing on surgical robots
 
 ## Work Experience
